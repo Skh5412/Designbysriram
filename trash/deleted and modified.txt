@@ -1,0 +1,3 @@
+home 1 deleted, home 2 --> index.html
+
+404 deleted >> index.html ----> 404
