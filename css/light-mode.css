@@ -1,14 +1,5 @@
 @charset "UTF-8";
-/* -------------------------------------------
 
-Name: 		Courtney (light mode)
-Version:    1.0
-Developer:	Nazar Miller (millerDigitalDesign)
-Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
-
-p.s. I am available for Freelance hire (UI design, web development). email: miller.themes@gmail.com
-
-------------------------------------------- */
 /*--------------------------------------------
 
 1. common
@@ -61,6 +52,18 @@ main
   padding: 0;
   margin: 0;
 }
+
+/* 3. Add any extra styling */
+.mil-up {
+  width: 100%;       /* or fixed width like 300px */
+  height: auto;
+}
+
+.mil-sign text {
+  fill: #000;        /* signature color */
+  /* you can tweak letter-spacing, font-size, etc. here */
+}
+
 
 html,
 body {
